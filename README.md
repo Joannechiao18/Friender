@@ -1,7 +1,12 @@
 # Friender
 
-## Introduction
+![](https://img.shields.io/badge/Java-10.2-9cf)
+![](https://img.shields.io/badge/Google Firebase-10.2-grey)
+
 This is an anonymous chat app for the `Agile Software Development` class. 
+
+## Introduction
+
 ![Imgur](https://github.com/a3828162/Friender/blob/main/picture/5.png)
 ![Imgur](https://github.com/a3828162/Friender/blob/main/picture/6.png)
 ![Imgur](https://github.com/a3828162/Friender/blob/main/picture/7.png)
